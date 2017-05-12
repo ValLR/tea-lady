@@ -1,1 +1,21 @@
 /* Escribe acá tus estilos*/
+
+body {
+	background-image: url(/home/laboratoria/Desktop/enunciado/tea-lady/img/5.jpg);
+	text-align : center;
+}
+
+header{
+	margin-top: 5px;
+	background-size: cover;
+	background-image: url(/home/laboratoria/Desktop/enunciado/tea-lady/img/7.jpg);
+	height: 330px;
+
+}
+
+header h1 {
+   	margin:0;
+   	color: #eeeaea;
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+}
